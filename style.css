@@ -1,0 +1,78 @@
+A { text-decoration: none; }
+A:link		{color:#333333 ;text-decoration:}
+A:visited	{color: #333333 ;text-decoration: }
+A:hover		{color: #cc0066;}
+
+.bar:link	{color: #333333;text-decoration: underline;}
+.bar:visited	{color: #333333 ;text-decoration: underline}
+.bar:hover	{color: #cc0066;}
+
+.bottom:link	{color: #333333;text-decoration: underline;}
+.bottom:visited	{color:#333333 ;text-decoration: underline}
+.bottom:hover	{color: #cc0066; text-decoration: underline;}
+
+P
+{
+    FONT-FAMILY: Arial, sans-serif
+    FONT-SIZE: 12px;
+    COLOR: #000000
+}
+H1
+{
+    FONT-SIZE: 12px;
+    COLOR: #330066;
+    FONT-FAMILY: sans-serif
+}
+H2
+{
+    FONT-SIZE: 12px;
+    COLOR: #330066;
+    FONT-FAMILY: sans-serif
+}
+FONT
+{
+    FONT-FAMILY: Arial, sans-serif
+}
+.box
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 14px;
+    COLOR: #330066
+}
+.subbox
+{
+    FONT-SIZE: 10px;
+    COLOR: #000000
+}
+.go
+{
+    FONT-SIZE: 9px;
+    COLOR: #000000
+}
+.head
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 12px;
+    COLOR: #330066
+}
+.bigerror
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 18px;
+    COLOR: red
+}
+.text
+{
+    FONT-SIZE: 12px;
+    COLOR: #000000
+}
+.textsmall
+{
+    FONT-SIZE: 9px;
+    COLOR: #000000
+}
+.textgray
+{
+    FONT-SIZE: 12px;
+    COLOR: #999999
+}

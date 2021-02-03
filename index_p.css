@@ -1,0 +1,311 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc01               { /* Common */
+	border          :   0.00pt none #000000;
+	clip            : rect(0.00pt,78.75pt,0.75pt,0.00pt);
+	}
+.cc02               { /* Common */
+	border          :   0.00pt none #000000;
+	clip            : rect(0.00pt,69.00pt,0.75pt,0.00pt);
+	}
+.cc03               { /* Common */
+	border          :   0.00pt none #000000;
+	clip            : rect(0.00pt,93.75pt,0.75pt,0.00pt);
+	}
+.cc04               { /* Common */
+	border          :   0.00pt none #000000;
+	clip            : rect(0.00pt,84.00pt,0.75pt,0.00pt);
+	}
+.cc05               { /* Common */
+	border          :   0.00pt none #000000;
+	clip            : rect(0.00pt,78.00pt,0.75pt,0.00pt);
+	}
+.cc06               { /* Common */
+	border          :   0.00pt none #000000;
+	clip            : rect(0.00pt,114.00pt,0.75pt,0.00pt);
+	}
+.cc07               { /* Common */
+	border          :   0.00pt none #000000;
+	clip            : rect(0.00pt,0.75pt,0.75pt,0.00pt);
+	}
+.cc08               { /* Common */
+	border          :   0.00pt none #000000;
+	}
+.cc09               { /* Common */
+	border          :   0.00pt none #0066cc;
+	}
+.cc10               { /* Common */
+	border          :   0.00pt none #000000;
+	clip            : rect(0.00pt,0.75pt,15.00pt,0.00pt);
+	}
+.cc11               { /* Common */
+	border          :   0.00pt none #000000;
+	clip            : rect(0.00pt,517.50pt,6.75pt,0.00pt);
+	}
+.cc12               { /* Common */
+	border          :   0.00pt none #000000;
+	clip            : rect(0.00pt,0.75pt,6.75pt,0.00pt);
+	}
+.cc13               { /* Common */
+	font            : 12pt 'Times New Roman', Book, Georgia, serif;
+	color           : #000000;
+	text-align      : center;
+	}
+.cc14               { /* Common */
+	font            : 10pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	text-align      : center;
+	}
+.cc15               { /* Common */
+	font            : bold 10pt 'Arial', Helvetica, sans-serif;
+	color           : #cc0000;
+	text-align      : center;
+	}
+.cc16               { /* Common */
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	text-align      : center;
+	}
+.cc17               { /* Common */
+	font            : 12pt 'Times New Roman', Book, Georgia, serif;
+	color           : #000000;
+	}
+span#e31            { /* zeroimpedance001009.gif */
+	background      : transparent url(zeroimpedance001009.gif) no-repeat top left;
+	position        : absolute;
+	left            :   7.50pt;
+	top             :  25.50pt;
+	width           :  78.75pt;
+	height          :   0.75pt;
+	}
+span#e30            { /* zeroimpedance001008.gif */
+	background      : transparent url(zeroimpedance001008.gif) no-repeat top left;
+	position        : absolute;
+	left            :  86.25pt;
+	top             :  18.75pt;
+	width           :  69.00pt;
+	height          :   0.75pt;
+	}
+span#e29            { /* zeroimpedance001007.gif */
+	background      : transparent url(zeroimpedance001007.gif) no-repeat top left;
+	position        : absolute;
+	left            : 155.25pt;
+	top             :  18.75pt;
+	width           :  93.75pt;
+	height          :   0.75pt;
+	}
+span#e28            { /* zeroimpedance001006.gif */
+	background      : transparent url(zeroimpedance001006.gif) no-repeat top left;
+	position        : absolute;
+	left            : 249.00pt;
+	top             :  18.75pt;
+	width           :  84.00pt;
+	height          :   0.75pt;
+	}
+span#e27            { /* zeroimpedance001005.gif */
+	background      : transparent url(zeroimpedance001005.gif) no-repeat top left;
+	position        : absolute;
+	left            : 333.00pt;
+	top             :  18.75pt;
+	width           :  78.00pt;
+	height          :   0.75pt;
+	}
+span#e26            { /* zeroimpedance001004.gif */
+	background      : transparent url(zeroimpedance001004.gif) no-repeat top left;
+	position        : absolute;
+	left            : 411.00pt;
+	top             :  18.75pt;
+	width           : 114.00pt;
+	height          :   0.75pt;
+	}
+span#e25            { /* shim.gif */
+	background      : transparent url(shim.gif) no-repeat top left;
+	position        : absolute;
+	left            : 525.00pt;
+	top             :  18.75pt;
+	width           :   0.75pt;
+	height          :   0.75pt;
+	}
+span#e24            { /* zerohead_r1_c1a.gif */
+	background      : transparent url(zerohead_r1_c1a.gif) no-repeat top left;
+	position        : absolute;
+	left            :   7.50pt;
+	top             :  26.25pt;
+	width           : 517.50pt;
+	height          :  63.75pt;
+	}
+span#e23            { /* zeroimpedance001003.gif */
+	background      : transparent url(zeroimpedance001003.gif) no-repeat top left;
+	position        : absolute;
+	left            : 525.00pt;
+	top             :  26.25pt;
+	width           :   0.75pt;
+	height          :  63.75pt;
+	}
+img#e22             { /* zerohead_r2_c1.gif */
+	position        : absolute;
+	left            :   7.50pt;
+	top             :  90.00pt;
+	width           :  78.75pt;
+	height          :  15.00pt;
+	}
+img#e21             { /* zerohead_r2_c2.gif */
+	position        : absolute;
+	left            :  86.25pt;
+	top             :  90.00pt;
+	width           :  69.00pt;
+	height          :  15.00pt;
+	}
+img#e20             { /* zerohead_r2_c3.gif */
+	position        : absolute;
+	left            : 155.25pt;
+	top             :  90.00pt;
+	width           :  93.75pt;
+	height          :  15.00pt;
+	}
+img#e19             { /* zerohead_r2_c4.gif */
+	position        : absolute;
+	left            : 249.00pt;
+	top             :  90.00pt;
+	width           :  84.00pt;
+	height          :  15.00pt;
+	}
+img#e18             { /* zerohead_r2_c5.gif */
+	position        : absolute;
+	left            : 333.00pt;
+	top             :  90.00pt;
+	width           :  78.00pt;
+	height          :  15.00pt;
+	}
+img#e17             { /* zerohead_r2_c6.gif */
+	position        : absolute;
+	left            : 411.00pt;
+	top             :  90.00pt;
+	width           : 114.00pt;
+	height          :  15.00pt;
+	}
+span#e16            { /* zeroimpedance001002.gif */
+	background      : transparent url(zeroimpedance001002.gif) no-repeat top left;
+	position        : absolute;
+	left            : 525.00pt;
+	top             :  90.00pt;
+	width           :   0.75pt;
+	height          :  15.00pt;
+	}
+span#e15            { /* zerohead_r3_c1.gif */
+	background      : transparent url(zerohead_r3_c1.gif) no-repeat top left;
+	position        : absolute;
+	left            :   7.50pt;
+	top             : 105.00pt;
+	width           : 517.50pt;
+	height          :   6.75pt;
+	}
+span#e14            { /* zeroimpedance001001.gif */
+	background      : transparent url(zeroimpedance001001.gif) no-repeat top left;
+	position        : absolute;
+	left            : 525.00pt;
+	top             : 105.00pt;
+	width           :   0.75pt;
+	height          :   6.75pt;
+	}
+div#e13             {
+	position        : absolute;
+	left            : 214.50pt;
+	top             : 111.75pt;
+	width           :   1.50pt;
+	height          :  14.25pt;
+	}
+span#e12            { /* zerotitle1.gif */
+	background      : transparent url(zerotitle1.gif) no-repeat top left;
+	position        : absolute;
+	left            :  57.75pt;
+	top             : 128.25pt;
+	width           : 156.00pt;
+	height          :  25.50pt;
+	}
+img#e11             { /* 4669lrg.jpg */
+	position        : absolute;
+	left            :  23.25pt;
+	top             : 153.75pt;
+	width           : 225.00pt;
+	height          : 152.25pt;
+	}
+div#e10             { /* The two different versio... */
+	position        : absolute;
+	left            :  51.00pt;
+	top             : 323.25pt;
+	width           : 194.25pt;
+	height          : 144.00pt;
+	}
+img#e9              { /* 5043weblrg1.jpg */
+	position        : absolute;
+	left            :  36.75pt;
+	top             : 481.50pt;
+	width           : 198.00pt;
+	height          : 141.00pt;
+	}
+div#e8              { /* The ZERO-Box &gt;&gt;&gt... */
+	position        : absolute;
+	left            :  91.50pt;
+	top             : 639.00pt;
+	width           :  90.75pt;
+	height          :  12.00pt;
+	}
+div#e7              { /* The "naked" ZERO-Autofor... */
+	position        : absolute;
+	left            :  51.00pt;
+	top             : 665.25pt;
+	width           : 171.00pt;
+	height          :  12.00pt;
+	}
+span#e6             { /* anticableslogo.gif */
+	background      : transparent url(anticableslogo.gif) no-repeat top left;
+	position        : absolute;
+	left            : 331.50pt;
+	top             : 128.25pt;
+	width           : 156.00pt;
+	height          :  29.25pt;
+	}
+div#e5              { /* <B><FONT size="2">The Hi... */
+	position        : absolute;
+	left            : 311.25pt;
+	top             : 174.75pt;
+	width           : 207.00pt;
+	height          :  33.00pt;
+	}
+div#e4              { /* <FONT size=2><P>The soli... */
+	position        : absolute;
+	left            : 310.50pt;
+	top             : 214.50pt;
+	width           : 212.25pt;
+	height          :  91.50pt;
+	}
+img#e3              { /* proof6emaillrg.jpg */
+	position        : absolute;
+	left            : 297.00pt;
+	top             : 312.75pt;
+	width           : 225.00pt;
+	height          : 168.75pt;
+	}
+div#e2              { /* <FONT size="2">  \<P><FO... */
+	position        : absolute;
+	left            : 300.75pt;
+	top             : 495.75pt;
+	width           : 223.50pt;
+	height          : 225.75pt;
+	}
+div#e1              { /* <TABLE  border=0 cellSpa... */
+	position        : absolute;
+	left            :   7.50pt;
+	top             : 730.50pt;
+	width           : 450.00pt;
+	height          :  24.75pt;
+	}
+body#page           { /* Page Body */
+	background-color: #ffffff;
+	}
+
+
+
+/*--- EndOfFile ---*/

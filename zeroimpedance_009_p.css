@@ -1,0 +1,710 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc116              { /* Common */
+	font            : bold 12pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	text-align      : center;
+	}
+.cc117              { /* Common */
+	font            : 12pt 'Times New Roman', Book, Georgia, serif;
+	color           : #000000;
+	}
+.cc118              { /* Common */
+	font            : 10pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+.cc119              { /* Common */
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+.cc120              { /* Common */
+	font            : 10pt 'Arial', Helvetica, sans-serif;
+	color           : #000099;
+	}
+.cc121              { /* Common */
+	font            : bold 10pt 'Arial', Helvetica, sans-serif;
+	color           : #333333;
+	text-align      : center;
+	}
+.cc122              { /* Common */
+	border          :   0.00pt none #000000;
+	clip            : rect(0.00pt,78.75pt,0.75pt,0.00pt);
+	}
+.cc123              { /* Common */
+	border          :   0.00pt none #000000;
+	clip            : rect(0.00pt,69.00pt,0.75pt,0.00pt);
+	}
+.cc124              { /* Common */
+	border          :   0.00pt none #000000;
+	clip            : rect(0.00pt,93.75pt,0.75pt,0.00pt);
+	}
+.cc125              { /* Common */
+	border          :   0.00pt none #000000;
+	clip            : rect(0.00pt,84.00pt,0.75pt,0.00pt);
+	}
+.cc126              { /* Common */
+	border          :   0.00pt none #000000;
+	clip            : rect(0.00pt,78.00pt,0.75pt,0.00pt);
+	}
+.cc127              { /* Common */
+	border          :   0.00pt none #000000;
+	clip            : rect(0.00pt,114.00pt,0.75pt,0.00pt);
+	}
+.cc128              { /* Common */
+	border          :   0.00pt none #000000;
+	clip            : rect(0.00pt,0.75pt,0.75pt,0.00pt);
+	}
+.cc129              { /* Common */
+	border          :   0.00pt none #000000;
+	}
+.cc130              { /* Common */
+	border          :   0.00pt none #0066cc;
+	}
+.cc131              { /* Common */
+	border          :   0.00pt none #000000;
+	clip            : rect(0.00pt,0.75pt,15.00pt,0.00pt);
+	}
+.cc132              { /* Common */
+	border          :   0.00pt none #000000;
+	clip            : rect(0.00pt,517.50pt,6.75pt,0.00pt);
+	}
+.cc133              { /* Common */
+	border          :   0.00pt none #000000;
+	clip            : rect(0.00pt,0.75pt,6.75pt,0.00pt);
+	}
+div#e88             {
+	position        : absolute;
+	left            : 248.25pt;
+	top             : 111.75pt;
+	width           : 104.25pt;
+	height          :  23.25pt;
+	}
+div#e87             { /* <OL>  \<LI><FONT size="2... */
+	position        : absolute;
+	left            :   7.50pt;
+	top             : 163.50pt;
+	width           : 480.75pt;
+	height          : 294.75pt;
+	}
+div#e86             {
+	position        : absolute;
+	left            :   7.50pt;
+	top             : 472.50pt;
+	width           :   4.50pt;
+	height          :  12.00pt;
+	}
+div#e85             {
+	position        : absolute;
+	left            :   7.50pt;
+	top             : 498.75pt;
+	width           : 480.75pt;
+	height          :  13.50pt;
+	}
+div#e84             { /* <FONT size="2" face="Gen... */
+	position        : absolute;
+	left            :   7.50pt;
+	top             : 526.50pt;
+	width           : 122.25pt;
+	height          :  19.50pt;
+	}
+div#e83             { /* The ZEROs are the simple... */
+	position        : absolute;
+	left            :   7.50pt;
+	top             : 552.75pt;
+	width           : 465.75pt;
+	height          :  48.00pt;
+	}
+div#e82             { /* Dick Olsher called the Z... */
+	position        : absolute;
+	left            :   7.50pt;
+	top             : 615.00pt;
+	width           : 476.25pt;
+	height          :  24.00pt;
+	}
+div#e81             { /* The ZEROs are a great wa... */
+	position        : absolute;
+	left            :   7.50pt;
+	top             : 653.25pt;
+	width           : 444.00pt;
+	height          :  12.00pt;
+	}
+div#e80             { /* <FONT size=2 face="Genev... */
+	position        : absolute;
+	left            :   7.50pt;
+	top             : 679.50pt;
+	width           : 300.00pt;
+	height          :  19.50pt;
+	}
+div#e79             { /* That is they suck a lot ... */
+	position        : absolute;
+	left            :   7.50pt;
+	top             : 705.75pt;
+	width           : 483.75pt;
+	height          :  48.00pt;
+	}
+div#e78             { /* The ZEROs are an alterna... */
+	position        : absolute;
+	left            :   7.50pt;
+	top             : 768.00pt;
+	width           : 479.25pt;
+	height          :  36.00pt;
+	}
+div#e77             { /* <FONT size=2 face="Genev... */
+	position        : absolute;
+	left            :   7.50pt;
+	top             : 818.25pt;
+	width           : 198.00pt;
+	height          :  19.50pt;
+	}
+div#e76             { /* Even 8-ohm loads are not... */
+	position        : absolute;
+	left            :   7.50pt;
+	top             : 844.50pt;
+	width           : 480.00pt;
+	height          :  48.00pt;
+	}
+div#e75             { /* <FONT size=2 face="Genev... */
+	position        : absolute;
+	left            :   7.50pt;
+	top             : 906.75pt;
+	width           : 238.50pt;
+	height          :  19.50pt;
+	}
+div#e74             { /* The multiplication taps ... */
+	position        : absolute;
+	left            :   7.50pt;
+	top             : 933.00pt;
+	width           : 472.50pt;
+	height          :  24.00pt;
+	}
+div#e73             { /* There are actually other... */
+	position        : absolute;
+	left            :   7.50pt;
+	top             : 971.25pt;
+	width           : 479.25pt;
+	height          :  36.00pt;
+	}
+div#e72             { /* <A href="http://www.paul... */
+	position        : absolute;
+	left            :  37.50pt;
+	top             :1021.50pt;
+	width           : 192.00pt;
+	height          :  19.50pt;
+	}
+div#e71             { /* <A href="http://www.paul... */
+	position        : absolute;
+	left            :  37.50pt;
+	top             :1047.75pt;
+	width           : 192.00pt;
+	height          :  19.50pt;
+	}
+div#e70             { /* http://www.paulspeltz.co... */
+	position        : absolute;
+	left            :  37.50pt;
+	top             :1074.00pt;
+	width           : 186.00pt;
+	height          :  12.00pt;
+	}
+div#e69             { /* <FONT size=2 face="Genev... */
+	position        : absolute;
+	left            :   7.50pt;
+	top             :1100.25pt;
+	width           : 279.00pt;
+	height          :  19.50pt;
+	}
+div#e68             { /* Start by using the 2x fa... */
+	position        : absolute;
+	left            :   7.50pt;
+	top             :1126.50pt;
+	width           : 473.25pt;
+	height          :  72.00pt;
+	}
+div#e67             { /* <FONT size=2 face="Genev... */
+	position        : absolute;
+	left            :   7.50pt;
+	top             :1212.75pt;
+	width           : 141.75pt;
+	height          :  19.50pt;
+	}
+div#e66             { /* The damping factor is si... */
+	position        : absolute;
+	left            :   7.50pt;
+	top             :1239.00pt;
+	width           : 471.75pt;
+	height          :  36.00pt;
+	}
+div#e65             { /* Now using the ZEROs to m... */
+	position        : absolute;
+	left            :   7.50pt;
+	top             :1289.25pt;
+	width           : 471.75pt;
+	height          :  24.00pt;
+	}
+div#e64             { /* A woofer that is "under ... */
+	position        : absolute;
+	left            :   7.50pt;
+	top             :1327.50pt;
+	width           : 480.75pt;
+	height          :  36.00pt;
+	}
+div#e63             { /* <FONT size="2" face="Gen... */
+	position        : absolute;
+	left            :   7.50pt;
+	top             :1377.75pt;
+	width           : 357.00pt;
+	height          :  19.50pt;
+	}
+div#e62             { /* The large coil of wire w... */
+	position        : absolute;
+	left            :   7.50pt;
+	top             :1404.00pt;
+	width           : 480.75pt;
+	height          :  60.00pt;
+	}
+div#e61             { /* <FONT size="2" face="Gen... */
+	position        : absolute;
+	left            :   7.50pt;
+	top             :1473.75pt;
+	width           : 387.00pt;
+	height          :  19.50pt;
+	}
+div#e60             { /* Both my experience and r... */
+	position        : absolute;
+	left            :   7.50pt;
+	top             :1495.50pt;
+	width           : 405.75pt;
+	height          :  12.00pt;
+	}
+div#e59             { /* <UL>  \<LI><FONT size="2... */
+	position        : absolute;
+	left            :   7.50pt;
+	top             :1510.50pt;
+	width           : 480.75pt;
+	height          :  57.00pt;
+	}
+div#e58             { /* <FONT size="2" face="Gen... */
+	position        : absolute;
+	left            :   7.50pt;
+	top             :1590.75pt;
+	width           : 274.50pt;
+	height          :  19.50pt;
+	}
+div#e57             { /* <UL>  \<LI><FONT size="2... */
+	position        : absolute;
+	left            :   7.50pt;
+	top             :1598.25pt;
+	width           : 480.75pt;
+	height          : 121.50pt;
+	}
+div#e56             { /* <FONT size="2" face="Gen... */
+	position        : absolute;
+	left            :   7.50pt;
+	top             :1760.25pt;
+	width           : 216.00pt;
+	height          :  19.50pt;
+	}
+div#e55             { /* Most everybody uses the ... */
+	position        : absolute;
+	left            :   7.50pt;
+	top             :1790.25pt;
+	width           : 480.00pt;
+	height          :  72.00pt;
+	}
+div#e54             { /* -Divide speaker's impeda... */
+	position        : absolute;
+	left            :   7.50pt;
+	top             :1876.50pt;
+	width           : 483.00pt;
+	height          :  12.00pt;
+	}
+div#e53             { /* -Divide speaker's impeda... */
+	position        : absolute;
+	left            :   7.50pt;
+	top             :1902.75pt;
+	width           : 330.00pt;
+	height          :  12.00pt;
+	}
+div#e52             { /* -Divide speaker's impeda... */
+	position        : absolute;
+	left            :   7.50pt;
+	top             :1929.00pt;
+	width           : 316.50pt;
+	height          :  12.00pt;
+	}
+div#e51             { /* You will notice the only... */
+	position        : absolute;
+	left            :   7.50pt;
+	top             :1955.25pt;
+	width           : 463.50pt;
+	height          :  36.00pt;
+	}
+div#e50             { /* <FONT size="2" face="Gen... */
+	position        : absolute;
+	left            :   7.50pt;
+	top             :2005.50pt;
+	width           : 703.50pt;
+	height          :  81.75pt;
+	}
+div#e49             { /* <FONT size="2" face="Gen... */
+	position        : absolute;
+	left            :   7.50pt;
+	top             :2106.00pt;
+	width           : 144.75pt;
+	height          :  19.50pt;
+	}
+div#e48             { /* The ZEROs are used world... */
+	position        : absolute;
+	left            :   7.50pt;
+	top             :2132.25pt;
+	width           : 484.50pt;
+	height          :  36.00pt;
+	}
+div#e47             { /* The most common users ar... */
+	position        : absolute;
+	left            :   7.50pt;
+	top             :2182.50pt;
+	width           : 474.00pt;
+	height          :  24.00pt;
+	}
+div#e46             { /* <FONT size="2" face="Gen... */
+	position        : absolute;
+	left            :   7.50pt;
+	top             :2220.75pt;
+	width           : 480.75pt;
+	height          :  19.50pt;
+	}
+div#e45             { /* The ZEROs have a few adv... */
+	position        : absolute;
+	left            :   7.50pt;
+	top             :2247.00pt;
+	width           : 317.25pt;
+	height          :  12.00pt;
+	}
+div#e44             { /* A) The music comes out o... */
+	position        : absolute;
+	left            :   7.50pt;
+	top             :2273.25pt;
+	width           : 478.50pt;
+	height          :  24.00pt;
+	}
+div#e43             { /* B) There is no DC curren... */
+	position        : absolute;
+	left            :   7.50pt;
+	top             :2311.50pt;
+	width           : 476.25pt;
+	height          :  24.00pt;
+	}
+div#e42             { /* C) The impedance ratio i... */
+	position        : absolute;
+	left            :   7.50pt;
+	top             :2349.75pt;
+	width           : 480.75pt;
+	height          :  36.00pt;
+	}
+div#e41             { /* <FONT size="2" face="Gen... */
+	position        : absolute;
+	left            :   7.50pt;
+	top             :2400.00pt;
+	width           : 475.50pt;
+	height          :  31.50pt;
+	}
+div#e40             { /* The ZEROs were originall... */
+	position        : absolute;
+	left            :   7.50pt;
+	top             :2438.25pt;
+	width           : 444.75pt;
+	height          :  24.00pt;
+	}
+div#e39             { /* The ZEROs are not an amp... */
+	position        : absolute;
+	left            :   7.50pt;
+	top             :2476.50pt;
+	width           : 476.25pt;
+	height          :  60.00pt;
+	}
+div#e38             { /* <FONT size="2" face="Gen... */
+	position        : absolute;
+	left            :   7.50pt;
+	top             :2550.75pt;
+	width           : 362.25pt;
+	height          :  19.50pt;
+	}
+div#e37             { /* Placing the ZEROs close ... */
+	position        : absolute;
+	left            :   7.50pt;
+	top             :2577.00pt;
+	width           : 467.25pt;
+	height          :  48.00pt;
+	}
+div#e36             { /* <FONT size="2" face="Gen... */
+	position        : absolute;
+	left            :   7.50pt;
+	top             :2639.25pt;
+	width           : 200.25pt;
+	height          :  19.50pt;
+	}
+div#e35             { /* The leads are made of on... */
+	position        : absolute;
+	left            :   7.50pt;
+	top             :2665.50pt;
+	width           : 483.00pt;
+	height          :  60.00pt;
+	}
+div#e34             { /* <OL>  \<LI><FONT size="2... */
+	position        : absolute;
+	left            :   7.50pt;
+	top             :2739.75pt;
+	width           : 480.75pt;
+	height          : 105.00pt;
+	}
+div#e33             { /* <FONT size="2" face="Gen... */
+	position        : absolute;
+	left            :   7.50pt;
+	top             :2859.00pt;
+	width           : 363.00pt;
+	height          :  19.50pt;
+	}
+div#e32             { /* It has been really fun i... */
+	position        : absolute;
+	left            :   7.50pt;
+	top             :2885.25pt;
+	width           : 484.50pt;
+	height          : 132.00pt;
+	}
+div#e31             { /* Audio Research Corp tube... */
+	position        : absolute;
+	left            :   7.50pt;
+	top             :3031.50pt;
+	width           : 477.75pt;
+	height          :  36.00pt;
+	}
+div#e30             { /* <FONT size="2" face="Gen... */
+	position        : absolute;
+	left            :   7.50pt;
+	top             :3081.75pt;
+	width           : 460.50pt;
+	height          :  31.50pt;
+	}
+div#e29             { /* A 4 ohm speaker will dra... */
+	position        : absolute;
+	left            :   7.50pt;
+	top             :3120.00pt;
+	width           : 484.50pt;
+	height          :  48.00pt;
+	}
+div#e28             { /* This has gotten so out o... */
+	position        : absolute;
+	left            :   7.50pt;
+	top             :3182.25pt;
+	width           : 475.50pt;
+	height          :  36.00pt;
+	}
+div#e27             { /* This aspect of the speak... */
+	position        : absolute;
+	left            :   7.50pt;
+	top             :3232.50pt;
+	width           : 477.75pt;
+	height          :  48.00pt;
+	}
+div#e26             { /* <OL>  \<LI><FONT size="2... */
+	position        : absolute;
+	left            :   7.50pt;
+	top             :3294.75pt;
+	width           : 480.75pt;
+	height          : 114.75pt;
+	}
+div#e25             { /* <FONT size="2" face="Gen... */
+	position        : absolute;
+	left            :   7.50pt;
+	top             :3423.75pt;
+	width           : 129.00pt;
+	height          :  19.50pt;
+	}
+div#e24             { /* Bi-wiring as an attempt ... */
+	position        : absolute;
+	left            :   7.50pt;
+	top             :3450.00pt;
+	width           : 481.50pt;
+	height          :  72.00pt;
+	}
+div#e23             { /* <FONT size="2" face="Gen... */
+	position        : absolute;
+	left            :   7.50pt;
+	top             :3536.25pt;
+	width           : 297.75pt;
+	height          :  19.50pt;
+	}
+div#e22             { /* <FONT size="2" face="Gen... */
+	position        : absolute;
+	left            :   7.50pt;
+	top             :3562.50pt;
+	width           : 467.25pt;
+	height          :  43.50pt;
+	}
+div#e21             { /* Enjoy, Paul */
+	position        : absolute;
+	left            :   7.50pt;
+	top             :3612.75pt;
+	width           :  54.75pt;
+	height          :  12.00pt;
+	}
+div#e20             { /* More technical informati... */
+	position        : absolute;
+	left            : 286.50pt;
+	top             :3639.00pt;
+	width           : 147.75pt;
+	height          :  12.00pt;
+	}
+div#e19             { /* <TABLE  border=0 cellSpa... */
+	position        : absolute;
+	left            :   7.50pt;
+	top             :3665.25pt;
+	width           : 450.00pt;
+	height          :  24.75pt;
+	}
+span#e18            { /* zeroimpedance001009.gif */
+	background      : transparent url(zeroimpedance001009.gif) no-repeat top left;
+	position        : absolute;
+	left            :  15.00pt;
+	top             :  33.00pt;
+	width           :  78.75pt;
+	height          :   0.75pt;
+	}
+span#e17            { /* zeroimpedance001008.gif */
+	background      : transparent url(zeroimpedance001008.gif) no-repeat top left;
+	position        : absolute;
+	left            :  93.75pt;
+	top             :  26.25pt;
+	width           :  69.00pt;
+	height          :   0.75pt;
+	}
+span#e16            { /* zeroimpedance001007.gif */
+	background      : transparent url(zeroimpedance001007.gif) no-repeat top left;
+	position        : absolute;
+	left            : 162.75pt;
+	top             :  26.25pt;
+	width           :  93.75pt;
+	height          :   0.75pt;
+	}
+span#e15            { /* zeroimpedance001006.gif */
+	background      : transparent url(zeroimpedance001006.gif) no-repeat top left;
+	position        : absolute;
+	left            : 256.50pt;
+	top             :  26.25pt;
+	width           :  84.00pt;
+	height          :   0.75pt;
+	}
+span#e14            { /* zeroimpedance001005.gif */
+	background      : transparent url(zeroimpedance001005.gif) no-repeat top left;
+	position        : absolute;
+	left            : 340.50pt;
+	top             :  26.25pt;
+	width           :  78.00pt;
+	height          :   0.75pt;
+	}
+span#e13            { /* zeroimpedance001004.gif */
+	background      : transparent url(zeroimpedance001004.gif) no-repeat top left;
+	position        : absolute;
+	left            : 418.50pt;
+	top             :  26.25pt;
+	width           : 114.00pt;
+	height          :   0.75pt;
+	}
+span#e12            { /* shim.gif */
+	background      : transparent url(shim.gif) no-repeat top left;
+	position        : absolute;
+	left            : 532.50pt;
+	top             :  26.25pt;
+	width           :   0.75pt;
+	height          :   0.75pt;
+	}
+span#e11            { /* zerohead_r1_c1a.gif */
+	background      : transparent url(zerohead_r1_c1a.gif) no-repeat top left;
+	position        : absolute;
+	left            :  15.00pt;
+	top             :  33.75pt;
+	width           : 517.50pt;
+	height          :  63.75pt;
+	}
+span#e10            { /* zeroimpedance001003.gif */
+	background      : transparent url(zeroimpedance001003.gif) no-repeat top left;
+	position        : absolute;
+	left            : 532.50pt;
+	top             :  33.75pt;
+	width           :   0.75pt;
+	height          :  63.75pt;
+	}
+img#e9              { /* zerohead_r2_c1.gif */
+	position        : absolute;
+	left            :  15.00pt;
+	top             :  97.50pt;
+	width           :  78.75pt;
+	height          :  15.00pt;
+	}
+img#e8              { /* zerohead_r2_c2.gif */
+	position        : absolute;
+	left            :  93.75pt;
+	top             :  97.50pt;
+	width           :  69.00pt;
+	height          :  15.00pt;
+	}
+img#e7              { /* zerohead_r2_c3.gif */
+	position        : absolute;
+	left            : 162.75pt;
+	top             :  97.50pt;
+	width           :  93.75pt;
+	height          :  15.00pt;
+	}
+img#e6              { /* zerohead_r2_c4.gif */
+	position        : absolute;
+	left            : 256.50pt;
+	top             :  97.50pt;
+	width           :  84.00pt;
+	height          :  15.00pt;
+	}
+img#e5              { /* zerohead_r2_c5.gif */
+	position        : absolute;
+	left            : 340.50pt;
+	top             :  97.50pt;
+	width           :  78.00pt;
+	height          :  15.00pt;
+	}
+img#e4              { /* zerohead_r2_c6.gif */
+	position        : absolute;
+	left            : 418.50pt;
+	top             :  97.50pt;
+	width           : 114.00pt;
+	height          :  15.00pt;
+	}
+span#e3             { /* zeroimpedance001002.gif */
+	background      : transparent url(zeroimpedance001002.gif) no-repeat top left;
+	position        : absolute;
+	left            : 532.50pt;
+	top             :  97.50pt;
+	width           :   0.75pt;
+	height          :  15.00pt;
+	}
+span#e2             { /* zerohead_r3_c1.gif */
+	background      : transparent url(zerohead_r3_c1.gif) no-repeat top left;
+	position        : absolute;
+	left            :  15.00pt;
+	top             : 112.50pt;
+	width           : 517.50pt;
+	height          :   6.75pt;
+	}
+span#e1             { /* zeroimpedance001001.gif */
+	background      : transparent url(zeroimpedance001001.gif) no-repeat top left;
+	position        : absolute;
+	left            : 532.50pt;
+	top             : 112.50pt;
+	width           :   0.75pt;
+	height          :   6.75pt;
+	}
+body#page           { /* Page Body */
+	background-color: #ffffff;
+	}
+
+
+
+/*--- EndOfFile ---*/

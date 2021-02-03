@@ -1,0 +1,234 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc51               { /* Common */
+	border          :   0.00pt none #000000;
+	clip            : rect(0.00pt,78.75pt,0.75pt,0.00pt);
+	}
+.cc52               { /* Common */
+	border          :   0.00pt none #000000;
+	clip            : rect(0.00pt,69.00pt,0.75pt,0.00pt);
+	}
+.cc53               { /* Common */
+	border          :   0.00pt none #000000;
+	clip            : rect(0.00pt,93.75pt,0.75pt,0.00pt);
+	}
+.cc54               { /* Common */
+	border          :   0.00pt none #000000;
+	clip            : rect(0.00pt,84.00pt,0.75pt,0.00pt);
+	}
+.cc55               { /* Common */
+	border          :   0.00pt none #000000;
+	clip            : rect(0.00pt,78.00pt,0.75pt,0.00pt);
+	}
+.cc56               { /* Common */
+	border          :   0.00pt none #000000;
+	clip            : rect(0.00pt,114.00pt,0.75pt,0.00pt);
+	}
+.cc57               { /* Common */
+	border          :   0.00pt none #000000;
+	clip            : rect(0.00pt,0.75pt,0.75pt,0.00pt);
+	}
+.cc58               { /* Common */
+	border          :   0.00pt none #000000;
+	}
+.cc59               { /* Common */
+	border          :   0.00pt none #0066cc;
+	}
+.cc60               { /* Common */
+	border          :   0.00pt none #000000;
+	clip            : rect(0.00pt,0.75pt,15.00pt,0.00pt);
+	}
+.cc61               { /* Common */
+	border          :   0.00pt none #000000;
+	clip            : rect(0.00pt,517.50pt,6.75pt,0.00pt);
+	}
+.cc62               { /* Common */
+	border          :   0.00pt none #000000;
+	clip            : rect(0.00pt,0.75pt,6.75pt,0.00pt);
+	}
+.cc63               { /* Common */
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+span#e23            { /* zeroimpedance001009.gif */
+	background      : transparent url(zeroimpedance001009.gif) no-repeat top left;
+	position        : absolute;
+	left            :   7.50pt;
+	top             :  25.50pt;
+	width           :  78.75pt;
+	height          :   0.75pt;
+	}
+span#e22            { /* zeroimpedance001008.gif */
+	background      : transparent url(zeroimpedance001008.gif) no-repeat top left;
+	position        : absolute;
+	left            :  86.25pt;
+	top             :  18.75pt;
+	width           :  69.00pt;
+	height          :   0.75pt;
+	}
+span#e21            { /* zeroimpedance001007.gif */
+	background      : transparent url(zeroimpedance001007.gif) no-repeat top left;
+	position        : absolute;
+	left            : 155.25pt;
+	top             :  18.75pt;
+	width           :  93.75pt;
+	height          :   0.75pt;
+	}
+span#e20            { /* zeroimpedance001006.gif */
+	background      : transparent url(zeroimpedance001006.gif) no-repeat top left;
+	position        : absolute;
+	left            : 249.00pt;
+	top             :  18.75pt;
+	width           :  84.00pt;
+	height          :   0.75pt;
+	}
+span#e19            { /* zeroimpedance001005.gif */
+	background      : transparent url(zeroimpedance001005.gif) no-repeat top left;
+	position        : absolute;
+	left            : 333.00pt;
+	top             :  18.75pt;
+	width           :  78.00pt;
+	height          :   0.75pt;
+	}
+span#e18            { /* zeroimpedance001004.gif */
+	background      : transparent url(zeroimpedance001004.gif) no-repeat top left;
+	position        : absolute;
+	left            : 411.00pt;
+	top             :  18.75pt;
+	width           : 114.00pt;
+	height          :   0.75pt;
+	}
+span#e17            { /* shim.gif */
+	background      : transparent url(shim.gif) no-repeat top left;
+	position        : absolute;
+	left            : 525.00pt;
+	top             :  18.75pt;
+	width           :   0.75pt;
+	height          :   0.75pt;
+	}
+span#e16            { /* zerohead_r1_c1a.gif */
+	background      : transparent url(zerohead_r1_c1a.gif) no-repeat top left;
+	position        : absolute;
+	left            :   7.50pt;
+	top             :  26.25pt;
+	width           : 517.50pt;
+	height          :  63.75pt;
+	}
+span#e15            { /* zeroimpedance001003.gif */
+	background      : transparent url(zeroimpedance001003.gif) no-repeat top left;
+	position        : absolute;
+	left            : 525.00pt;
+	top             :  26.25pt;
+	width           :   0.75pt;
+	height          :  63.75pt;
+	}
+img#e14             { /* zerohead_r2_c1.gif */
+	position        : absolute;
+	left            :   7.50pt;
+	top             :  90.00pt;
+	width           :  78.75pt;
+	height          :  15.00pt;
+	}
+img#e13             { /* zerohead_r2_c2.gif */
+	position        : absolute;
+	left            :  86.25pt;
+	top             :  90.00pt;
+	width           :  69.00pt;
+	height          :  15.00pt;
+	}
+img#e12             { /* zerohead_r2_c3.gif */
+	position        : absolute;
+	left            : 155.25pt;
+	top             :  90.00pt;
+	width           :  93.75pt;
+	height          :  15.00pt;
+	}
+img#e11             { /* zerohead_r2_c4.gif */
+	position        : absolute;
+	left            : 249.00pt;
+	top             :  90.00pt;
+	width           :  84.00pt;
+	height          :  15.00pt;
+	}
+img#e10             { /* zerohead_r2_c5.gif */
+	position        : absolute;
+	left            : 333.00pt;
+	top             :  90.00pt;
+	width           :  78.00pt;
+	height          :  15.00pt;
+	}
+img#e9              { /* zerohead_r2_c6.gif */
+	position        : absolute;
+	left            : 411.00pt;
+	top             :  90.00pt;
+	width           : 114.00pt;
+	height          :  15.00pt;
+	}
+span#e8             { /* zeroimpedance001002.gif */
+	background      : transparent url(zeroimpedance001002.gif) no-repeat top left;
+	position        : absolute;
+	left            : 525.00pt;
+	top             :  90.00pt;
+	width           :   0.75pt;
+	height          :  15.00pt;
+	}
+span#e7             { /* zerohead_r3_c1.gif */
+	background      : transparent url(zerohead_r3_c1.gif) no-repeat top left;
+	position        : absolute;
+	left            :   7.50pt;
+	top             : 105.00pt;
+	width           : 517.50pt;
+	height          :   6.75pt;
+	}
+span#e6             { /* zeroimpedance001001.gif */
+	background      : transparent url(zeroimpedance001001.gif) no-repeat top left;
+	position        : absolute;
+	left            : 525.00pt;
+	top             : 105.00pt;
+	width           :   0.75pt;
+	height          :   6.75pt;
+	}
+span#e5             { /* techheader.gif */
+	background      : transparent url(techheader.gif) no-repeat top left;
+	position        : absolute;
+	left            : 110.25pt;
+	top             : 126.00pt;
+	width           : 210.00pt;
+	height          :  23.25pt;
+	}
+div#e4              { /* -The Zero Story */
+	position        : absolute;
+	left            : 159.00pt;
+	top             : 168.00pt;
+	width           : 105.75pt;
+	height          :  16.50pt;
+	}
+div#e3              { /* -Frequently Asked Questi... */
+	position        : absolute;
+	left            : 159.75pt;
+	top             : 219.75pt;
+	width           : 151.50pt;
+	height          :  30.75pt;
+	}
+div#e2              { /* -2X Impedance Sweep */
+	position        : absolute;
+	left            : 159.00pt;
+	top             : 185.25pt;
+	width           : 129.00pt;
+	height          :  16.50pt;
+	}
+div#e1              { /* -4X Impedance Sweep */
+	position        : absolute;
+	left            : 159.00pt;
+	top             : 203.25pt;
+	width           : 131.25pt;
+	height          :  16.50pt;
+	}
+body#page           { /* Page Body */
+	background-color: #ffffff;
+	}
+
+
+
+/*--- EndOfFile ---*/
